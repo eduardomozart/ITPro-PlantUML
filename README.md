@@ -1,4 +1,4 @@
-# ITPro Poster icons for PlantUML
+# IT Pro Poster icons for PlantUML
 
 It uses the topology icons available at [Visio Stencils for IT Pro Posters](https://download.cnet.com/download/visio-stencils-for-it-pro-posters/3000-6677_4-75312522.html) (ITPostersVisioTemplate.zip) which has been used on Microsoft Docs to illustrate official Microsoft diagrams into 2010s era.
 
