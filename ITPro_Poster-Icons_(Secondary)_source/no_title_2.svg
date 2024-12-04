@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="0.4869000000" height="0.6270000000" viewBox="0 0 35.0600 45.1467">
+  <title><![CDATA[]]></title>
+  <g transform=" scale(1.000000) ">
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1004">
+      <path d="  M0.0000,8.2559 L16.0333,0.0000 L24.0500,4.0028 L24.0500,34.0241 L8.0167,42.2800 L0.0000,38.0270 L0.0000,8.2559 Z" style="stroke-width: 1.2000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #ffffff; "/>
+      <path d="  M0.0000,8.2559 L16.0333,0.0000 L24.0500,4.0028 L24.0500,34.0241 L8.0167,42.2800 L0.0000,38.0270 L0.0000,8.2559 Z" style="stroke-width: 1.2000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer1005">
+      <defs>
+        <linearGradient id="grad13">
+          <stop offset="0%" stop-color="#ffcc00" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#ff6600" stop-opacity="1.0000"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad13" id="grad14" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+      </defs>
+      <path d="  M16.0333,0.0000 L24.0500,4.0028 L8.0167,12.5089 L0.0000,8.2559 L16.0333,0.0000 Z" style="stroke-width: 1.2000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad14); "/>
+      <path d="  M16.0333,0.0000 L24.0500,4.0028 L8.0167,12.5089 L0.0000,8.2559 L16.0333,0.0000 Z" style="stroke-width: 1.2000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer1006">
+      <defs>
+        <linearGradient id="grad15">
+          <stop offset="0%" stop-color="#ffcc00" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#cc3300" stop-opacity="1.0000"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad15" id="grad16" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(315 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+      </defs>
+      <path d="  M8.0167,12.5089 L8.0167,42.2800 L24.0500,34.0241 L24.0500,4.0028 L8.0167,12.5089 Z" style="stroke-width: 1.2000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad16); "/>
+      <path d="  M8.0167,12.5089 L8.0167,42.2800 L24.0500,34.0241 L24.0500,4.0028 L8.0167,12.5089 Z" style="stroke-width: 1.2000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer1007">
+      <defs>
+        <linearGradient id="grad17">
+          <stop offset="0%" stop-color="#ffcc00" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#ff6600" stop-opacity="1.0000"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad17" id="grad18" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(315 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+      </defs>
+      <path d="  M8.0167,12.5089 L8.0167,42.2800 L0.0000,38.0270 L0.0000,8.2559 L8.0167,12.5089 Z" style="stroke-width: 1.2000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad18); "/>
+      <path d="  M8.0167,12.5089 L8.0167,42.2800 L0.0000,38.0270 L0.0000,8.2559 L8.0167,12.5089 Z" style="stroke-width: 1.2000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.0000,8.2559 L8.0167,12.5089" style="stroke-width: 1.2000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M8.0167,12.5089 L24.0500,4.0028" style="stroke-width: 1.2000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M2.5052,21.7654 L5.5115,23.0163" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M2.5052,18.5131 L5.5115,19.7640" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M16.0333,0.0000 L24.0500,4.0028 L24.0500,34.0241 L8.0167,42.2800 L0.0000,38.0270 L0.0000,8.2559 L16.0333,0.0000 Z" style="stroke-width: 1.2000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M8.0167,42.2800 L8.0167,12.5089" style="stroke-width: 1.2000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1008">
+      <path d="  M14.0000,41.4020 L14.0000,34.6617 L14.2478,33.9127 L14.9911,33.4135 L15.9821,32.6645 L17.2209,32.1652 L20.4419,31.4163 L24.4061,31.1667 L28.6181,31.4163 L31.8391,32.1652 L33.0779,32.6645 L34.0689,33.4135 L34.8122,33.9127 L35.0600,34.6617 L35.0600,41.4020 L34.8122,42.1510 L34.0689,42.8999 L33.0779,43.6488 L31.8391,44.1481 L30.3525,44.6474 L28.6181,44.8970 L26.6360,45.1467 L24.4061,45.1467 L22.4240,45.1467 L20.4419,44.8970 L18.7075,44.6474 L17.2209,44.1481 L15.9821,43.6488 L14.9911,42.8999 L14.2478,42.1510 L14.0000,41.4020 Z" style="stroke-width: 1.2000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #ffffff; "/>
+      <path d="  M14.0000,41.4020 L14.0000,34.6617 L14.2478,33.9127 L14.9911,33.4135 L15.9821,32.6645 L17.2209,32.1652 L20.4419,31.4163 L24.4061,31.1667 L28.6181,31.4163 L31.8391,32.1652 L33.0779,32.6645 L34.0689,33.4135 L34.8122,33.9127 L35.0600,34.6617 L35.0600,41.4020 L34.8122,42.1510 L34.0689,42.8999 L33.0779,43.6488 L31.8391,44.1481 L30.3525,44.6474 L28.6181,44.8970 L26.6360,45.1467 L24.4061,45.1467 L22.4240,45.1467 L20.4419,44.8970 L18.7075,44.6474 L17.2209,44.1481 L15.9821,43.6488 L14.9911,42.8999 L14.2478,42.1510 L14.0000,41.4020 Z" style="stroke-width: 1.2000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1009">
+      <defs>
+        <linearGradient id="grad19">
+          <stop offset="0%" stop-color="#e64d00" stop-opacity="1.0000"/>
+          <stop offset="50%" stop-color="#ffcc00" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#e64d00" stop-opacity="1.0000"/>
+        </linearGradient>
+      </defs>
+      <path d="  M35.0600,34.6617 L34.8122,35.4106 L34.0689,36.1595 L33.0779,36.6588 L31.8391,37.1581 L30.3525,37.6574 L28.6181,38.1567 L26.6360,38.4063 L24.4061,38.4063 L22.4240,38.4063 L20.4419,38.1567 L18.7075,37.6574 L17.2209,37.1581 L15.9821,36.6588 L14.9911,36.1595 L14.2478,35.4106 L14.0000,34.6617 L14.0000,41.4020 L14.2478,42.1510 L14.9911,42.8999 L15.9821,43.6488 L17.2209,44.1481 L18.7075,44.6474 L20.4419,44.8970 L22.4240,45.1467 L24.4061,45.1467 L26.6360,45.1467 L28.6181,44.8970 L30.3525,44.6474 L31.8391,44.1481 L33.0779,43.6488 L34.0689,42.8999 L34.8122,42.1510 L35.0600,41.4020 L35.0600,34.6617 Z" style="stroke-width: 1.2000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad19); "/>
+      <path d="  M35.0600,34.6617 L34.8122,35.4106 L34.0689,36.1595 L33.0779,36.6588 L31.8391,37.1581 L30.3525,37.6574 L28.6181,38.1567 L26.6360,38.4063 L24.4061,38.4063 L22.4240,38.4063 L20.4419,38.1567 L18.7075,37.6574 L17.2209,37.1581 L15.9821,36.6588 L14.9911,36.1595 L14.2478,35.4106 L14.0000,34.6617 L14.0000,41.4020 L14.2478,42.1510 L14.9911,42.8999 L15.9821,43.6488 L17.2209,44.1481 L18.7075,44.6474 L20.4419,44.8970 L22.4240,45.1467 L24.4061,45.1467 L26.6360,45.1467 L28.6181,44.8970 L30.3525,44.6474 L31.8391,44.1481 L33.0779,43.6488 L34.0689,42.8999 L34.8122,42.1510 L35.0600,41.4020 L35.0600,34.6617 Z" style="stroke-width: 1.2000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer1010">
+      <defs>
+        <linearGradient id="grad20">
+          <stop offset="0%" stop-color="#ffcc00" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#ff6600" stop-opacity="1.0000"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad20" id="grad21" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+      </defs>
+      <path d="  M14.0000,34.6617 L14.2478,33.9127 L14.9911,33.4135 L15.9821,32.6645 L17.2209,32.1652 L20.4419,31.4163 L24.4061,31.1667 L28.6181,31.4163 L31.8391,32.1652 L33.0779,32.6645 L34.0689,33.4135 L34.8122,33.9127 L35.0600,34.6617 L34.8122,35.4106 L34.0689,36.1595 L33.0779,36.6588 L31.8391,37.1581 L30.3525,37.6574 L28.6181,38.1567 L26.6360,38.4063 L24.4061,38.4063 L22.4240,38.4063 L20.4419,38.1567 L18.7075,37.6574 L17.2209,37.1581 L15.9821,36.6588 L14.9911,36.1595 L14.2478,35.4106 L14.0000,34.6617 Z" style="stroke-width: 1.2000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad21); "/>
+      <path d="  M14.0000,34.6617 L14.2478,33.9127 L14.9911,33.4135 L15.9821,32.6645 L17.2209,32.1652 L20.4419,31.4163 L24.4061,31.1667 L28.6181,31.4163 L31.8391,32.1652 L33.0779,32.6645 L34.0689,33.4135 L34.8122,33.9127 L35.0600,34.6617 L34.8122,35.4106 L34.0689,36.1595 L33.0779,36.6588 L31.8391,37.1581 L30.3525,37.6574 L28.6181,38.1567 L26.6360,38.4063 L24.4061,38.4063 L22.4240,38.4063 L20.4419,38.1567 L18.7075,37.6574 L17.2209,37.1581 L15.9821,36.6588 L14.9911,36.1595 L14.2478,35.4106 L14.0000,34.6617 Z" style="stroke-width: 1.2000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

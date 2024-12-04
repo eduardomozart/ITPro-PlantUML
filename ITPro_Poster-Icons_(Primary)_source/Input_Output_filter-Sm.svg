@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="0.3351000000" height="0.5035000000" viewBox="0 0 24.1297 36.2513">
+  <title><![CDATA[Input/Output filter-Sm]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.0000,1.2587 L0.0000,24.6711 L21.8909,36.2513 L24.1297,34.9926 L24.1297,11.3285 L2.4876,0.0000 L0.0000,1.2587 Z" style="stroke-width: 1.6800; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.0000,1.2587 L2.4876,0.0000 L24.1297,11.3285 L24.1297,34.9926 L21.8909,36.2513 L0.0000,24.6711 L0.0000,1.2587 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad541" cx="0.0000%" cy="0.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#99ccff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#0066ff" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M21.8909,12.5873 L21.8909,36.2513 L0.0000,24.6711 L0.0000,1.2587 L21.8909,12.5873 Z" style="fill-rule: evenodd; fill: url(#grad541); "/>
+    <g xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer1339">
+      <defs>
+        <linearGradient id="grad542">
+          <stop offset="0%" stop-color="#c0e5ff" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#0099ff" stop-opacity="1.0000"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad542" id="grad543" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+      </defs>
+      <path d="  M2.4876,0.0000 L0.0000,1.2587 L21.8909,12.5873 L24.1297,11.3285 L2.4876,0.0000 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad543); "/>
+      <path d="  M2.4876,0.0000 L0.0000,1.2587 L21.8909,12.5873 L24.1297,11.3285 L2.4876,0.0000 Z" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer1340">
+      <defs>
+        <linearGradient id="grad544">
+          <stop offset="0%" stop-color="#000099" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#99c0ff" stop-opacity="1.0000"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad544" id="grad545" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+      </defs>
+      <path d="  M24.1297,11.3285 L21.8909,12.5873 L21.8909,36.2513 L24.1297,34.9926 L24.1297,11.3285 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad545); "/>
+      <path d="  M24.1297,11.3285 L21.8909,12.5873 L21.8909,36.2513 L24.1297,34.9926 L24.1297,11.3285 Z" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.0000,1.2587 L0.0000,24.6711 L21.8909,36.2513 L24.1297,34.9926 L24.1297,11.3285 L2.4876,0.0000 L0.0000,1.2587 Z" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M21.8909,36.2513 L21.8909,12.5873 L24.1297,11.3285 L21.8909,12.5873 L0.0000,1.2587" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1341">
+      <path d="  M12.6868,27.9437 L9.2041,26.1815 L9.2041,21.9019 L12.6868,23.9158 L12.6868,27.9437 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0066ff; "/>
+      <path d="  M12.6868,27.9437 L9.2041,26.1815 L9.2041,21.9019 L12.6868,23.9158 L12.6868,27.9437 Z" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1342">
+      <path d="  M6.4678,24.6711 L2.9851,22.9088 L2.9851,18.6292 L6.4678,20.6431 L6.4678,24.6711 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0066ff; "/>
+      <path d="  M6.4678,24.6711 L2.9851,22.9088 L2.9851,18.6292 L6.4678,20.6431 L6.4678,24.6711 Z" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1343">
+      <path d="  M18.9057,24.6711 L15.4231,22.9088 L15.4231,18.8809 L18.9057,20.6431 L18.9057,24.6711 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0066ff; "/>
+      <path d="  M18.9057,24.6711 L15.4231,22.9088 L15.4231,18.8809 L18.9057,20.6431 L18.9057,24.6711 Z" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1344">
+      <path d="  M12.6868,21.6501 L9.2041,19.6361 L9.2041,15.6082 L12.6868,17.6222 L12.6868,21.6501 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0066ff; "/>
+      <path d="  M12.6868,21.6501 L9.2041,19.6361 L9.2041,15.6082 L12.6868,17.6222 L12.6868,21.6501 Z" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1345">
+      <path d="  M6.4678,18.3774 L2.9851,16.3635 L2.9851,12.5873 L6.4678,14.3495 L6.4678,18.3774 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0066ff; "/>
+      <path d="  M6.4678,18.3774 L2.9851,16.3635 L2.9851,12.5873 L6.4678,14.3495 L6.4678,18.3774 Z" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1346">
+      <path d="  M18.9057,18.3774 L15.4231,16.6152 L15.4231,12.5873 L18.9057,14.3495 L18.9057,18.3774 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0066ff; "/>
+      <path d="  M18.9057,18.3774 L15.4231,16.6152 L15.4231,12.5873 L18.9057,14.3495 L18.9057,18.3774 Z" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1347">
+      <path d="  M12.6868,15.1047 L9.2041,13.3425 L9.2041,9.3146 L12.6868,11.3285 L12.6868,15.1047 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0066ff; "/>
+      <path d="  M12.6868,15.1047 L9.2041,13.3425 L9.2041,9.3146 L12.6868,11.3285 L12.6868,15.1047 Z" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1348">
+      <path d="  M6.4678,11.8320 L2.9851,10.0698 L2.9851,6.0419 L6.4678,8.0559 L6.4678,11.8320 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0066ff; "/>
+      <path d="  M6.4678,11.8320 L2.9851,10.0698 L2.9851,6.0419 L6.4678,8.0559 L6.4678,11.8320 Z" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1349">
+      <path d="  M18.9057,31.2164 L15.4231,29.4542 L15.4231,25.1745 L18.9057,26.9368 L18.9057,31.2164 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0066ff; "/>
+      <path d="  M18.9057,31.2164 L15.4231,29.4542 L15.4231,25.1745 L18.9057,26.9368 L18.9057,31.2164 Z" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1350">
+      <path d="  M18.9057,16.1117 L17.6619,15.3565 L17.6619,13.5943 L18.9057,14.3495 L18.9057,16.1117 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #ffffff; "/>
+      <path d="  M18.9057,16.1117 L17.6619,15.3565 L17.6619,13.5943 L18.9057,14.3495 L18.9057,16.1117 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1351">
+      <path d="  M12.6868,12.8390 L11.6917,12.0838 L11.6917,10.3216 L12.6868,11.3285 L12.6868,12.8390 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #ffffff; "/>
+      <path d="  M12.6868,12.8390 L11.6917,12.0838 L11.6917,10.3216 L12.6868,11.3285 L12.6868,12.8390 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1352">
+      <path d="  M6.4678,9.5663 L5.2240,8.8111 L5.2240,7.0489 L6.4678,8.0559 L6.4678,9.5663 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #ffffff; "/>
+      <path d="  M6.4678,9.5663 L5.2240,8.8111 L5.2240,7.0489 L6.4678,8.0559 L6.4678,9.5663 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1353">
+      <path d="  M6.4678,16.1117 L5.2240,15.3565 L5.2240,13.5943 L6.4678,14.3495 L6.4678,16.1117 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #ffffff; "/>
+      <path d="  M6.4678,16.1117 L5.2240,15.3565 L5.2240,13.5943 L6.4678,14.3495 L6.4678,16.1117 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1354">
+      <path d="  M12.6868,19.3844 L11.6917,18.3774 L11.6917,16.8669 L12.6868,17.6222 L12.6868,19.3844 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #ffffff; "/>
+      <path d="  M12.6868,19.3844 L11.6917,18.3774 L11.6917,16.8669 L12.6868,17.6222 L12.6868,19.3844 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1355">
+      <path d="  M18.9057,22.1536 L17.6619,21.6501 L17.6619,20.1396 L18.9057,20.6431 L18.9057,22.1536 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #ffffff; "/>
+      <path d="  M18.9057,22.1536 L17.6619,21.6501 L17.6619,20.1396 L18.9057,20.6431 L18.9057,22.1536 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1356">
+      <path d="  M6.4678,22.1536 L5.2240,21.6501 L5.2240,19.8879 L6.4678,20.6431 L6.4678,22.1536 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #ffffff; "/>
+      <path d="  M6.4678,22.1536 L5.2240,21.6501 L5.2240,19.8879 L6.4678,20.6431 L6.4678,22.1536 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1357">
+      <path d="  M12.6868,25.4263 L11.6917,24.9228 L11.6917,23.1606 L12.6868,23.9158 L12.6868,25.4263 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #ffffff; "/>
+      <path d="  M12.6868,25.4263 L11.6917,24.9228 L11.6917,23.1606 L12.6868,23.9158 L12.6868,25.4263 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1358">
+      <path d="  M18.9057,28.6990 L17.6619,28.1955 L17.6619,26.4333 L18.9057,26.9368 L18.9057,28.6990 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #ffffff; "/>
+      <path d="  M18.9057,28.6990 L17.6619,28.1955 L17.6619,26.4333 L18.9057,26.9368 L18.9057,28.6990 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1359">
+      <path d="  M5.2240,8.8111 L6.4678,9.5663 L6.4678,11.8320 L2.9851,10.0698 L5.2240,8.8111 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0099ff; "/>
+      <path d="  M5.2240,8.8111 L6.4678,9.5663 L6.4678,11.8320 L2.9851,10.0698 L5.2240,8.8111 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1360">
+      <path d="  M5.2240,15.3565 L6.4678,16.1117 L6.4678,18.3774 L2.9851,16.3635 L5.2240,15.3565 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0099ff; "/>
+      <path d="  M5.2240,15.3565 L6.4678,16.1117 L6.4678,18.3774 L2.9851,16.3635 L5.2240,15.3565 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1361">
+      <path d="  M5.2240,21.6501 L6.4678,22.1536 L6.4678,24.6711 L2.9851,22.9088 L5.2240,21.6501 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0099ff; "/>
+      <path d="  M5.2240,21.6501 L6.4678,22.1536 L6.4678,24.6711 L2.9851,22.9088 L5.2240,21.6501 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1362">
+      <path d="  M11.6917,24.9228 L12.6868,25.4263 L12.6868,27.9437 L9.2041,26.1815 L11.6917,24.9228 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0099ff; "/>
+      <path d="  M11.6917,24.9228 L12.6868,25.4263 L12.6868,27.9437 L9.2041,26.1815 L11.6917,24.9228 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1363">
+      <path d="  M17.6619,28.1955 L18.9057,28.6990 L18.9057,31.2164 L15.4231,29.4542 L17.6619,28.1955 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0099ff; "/>
+      <path d="  M17.6619,28.1955 L18.9057,28.6990 L18.9057,31.2164 L15.4231,29.4542 L17.6619,28.1955 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1364">
+      <path d="  M17.6619,21.6501 L18.9057,22.1536 L18.9057,24.6711 L15.4231,22.9088 L17.6619,21.6501 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0099ff; "/>
+      <path d="  M17.6619,21.6501 L18.9057,22.1536 L18.9057,24.6711 L15.4231,22.9088 L17.6619,21.6501 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1365">
+      <path d="  M17.6619,15.3565 L18.9057,16.1117 L18.9057,18.3774 L15.4231,16.6152 L17.6619,15.3565 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0099ff; "/>
+      <path d="  M17.6619,15.3565 L18.9057,16.1117 L18.9057,18.3774 L15.4231,16.6152 L17.6619,15.3565 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1366">
+      <path d="  M11.6917,12.0838 L12.6868,12.8390 L12.6868,15.1047 L9.2041,13.3425 L11.6917,12.0838 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0099ff; "/>
+      <path d="  M11.6917,12.0838 L12.6868,12.8390 L12.6868,15.1047 L9.2041,13.3425 L11.6917,12.0838 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1367">
+      <path d="  M11.6917,18.3774 L12.6868,19.3844 L12.6868,21.6501 L9.2041,19.6361 L11.6917,18.3774 Z" style="stroke-width: 0.2503; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0099ff; "/>
+      <path d="  M11.6917,18.3774 L12.6868,19.3844 L12.6868,21.6501 L9.2041,19.6361 L11.6917,18.3774 Z" style="stroke-width: 0.2503; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

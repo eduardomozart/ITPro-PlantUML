@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="0.2428000000" height="0.3325000000" viewBox="0 0 17.4788 23.9415">
+  <title><![CDATA[Folder]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.0000,1.7641 L1.6993,2.5202 L1.6993,0.0000 L10.4387,4.7883 L11.4098,3.5282 L16.9933,6.0484 L17.4788,8.3165 L17.4788,22.9335 L15.7795,23.9415 L0.0000,15.3730 L0.0000,1.7641 Z" style="stroke-width: 1.4843; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.0000,1.7641 L1.6993,2.5202 L1.6993,0.0000 L10.4387,4.7883 L11.4098,3.5282 L16.9933,6.0484 L17.4788,8.3165 L17.4788,22.9335 L15.7795,23.9415 L0.0000,15.3730 L0.0000,1.7641 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1552">
+      <defs>
+        <radialGradient id="grad734" cx="0.0000%" cy="0.0000%" r="100.0000%">
+          <stop offset="0%" stop-color="#99ccff" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#0066ff" stop-opacity="1.0000"/>
+        </radialGradient>
+      </defs>
+      <path d="  M0.0000,1.7641 L1.6993,2.5202 L1.6993,0.0000 L10.4387,4.7883 L11.4098,3.5282 L16.9933,6.0484 L17.4788,8.3165 L17.4788,22.9335 L15.7795,23.9415 L0.0000,15.3730 L0.0000,1.7641 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad734); "/>
+      <path d="  M0.0000,1.7641 L1.6993,2.5202 L1.6993,0.0000 L10.4387,4.7883 L11.4098,3.5282 L16.9933,6.0484 L17.4788,8.3165 L17.4788,22.9335 L15.7795,23.9415 L0.0000,15.3730 L0.0000,1.7641 Z" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.0000,1.5121 L15.7795,10.0806 L15.7795,23.9415" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="0.4057000000" height="0.3666000000" viewBox="0 0 29.2079 26.3944">
+  <title><![CDATA[Communication, Discussion]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M16.5842,13.6952 L21.2871,11.2052 L29.2079,15.1892 L29.2079,24.1534 L25.0000,26.3944 L16.5842,22.6594 L16.5842,13.6952 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M21.2871,11.2052 L29.2079,15.1892 L25.0000,17.6793 L16.5842,13.6952 L21.2871,11.2052 Z" style="fill-rule: evenodd; fill: #99ccff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M25.0000,17.6793 L25.0000,26.3944 L29.2079,24.1534 L29.2079,15.1892 L25.0000,17.6793 Z" style="fill-rule: evenodd; fill: #0066ff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M25.0000,17.6793 L25.0000,26.3944 L16.5842,22.6594 L16.5842,13.6952 L25.0000,17.6793 Z" style="fill-rule: evenodd; fill: #0099ff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M25.0000,26.3944 L25.0000,17.6793" style="stroke-width: 0.7448; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M16.5842,13.6952 L25.0000,17.6793" style="stroke-width: 0.7448; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M25.0000,17.6793 L29.2079,15.1892" style="stroke-width: 0.7448; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M21.2871,11.2052 L29.2079,15.1892 L29.2079,24.1534 L25.0000,26.3944 L16.5842,22.6594 L16.5842,13.6952 L21.2871,11.2052 Z" style="stroke-width: 0.7448; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1522">
+      <path d="  M19.3069,11.2052 L19.5545,9.9602 L20.2970,8.9641 L21.5347,8.2171 L22.7723,7.9681 L23.5149,7.9681 L24.2574,8.2171 L25.2475,8.9641 L25.9901,9.9602 L26.2376,11.2052 L25.9901,12.4502 L25.2475,13.6952 L24.2574,14.4422 L23.5149,14.6912 L22.7723,14.6912 L21.5347,14.4422 L20.2970,13.6952 L19.5545,12.4502 L19.3069,11.2052 Z" style="stroke-width: 0.7448; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #0099ff; "/>
+      <path d="  M19.3069,11.2052 L19.5545,9.9602 L20.2970,8.9641 L21.5347,8.2171 L22.7723,7.9681 L23.5149,7.9681 L24.2574,8.2171 L25.2475,8.9641 L25.9901,9.9602 L26.2376,11.2052 L25.9901,12.4502 L25.2475,13.6952 L24.2574,14.4422 L23.5149,14.6912 L22.7723,14.6912 L21.5347,14.4422 L20.2970,13.6952 L19.5545,12.4502 L19.3069,11.2052 Z" style="stroke-width: 0.7448; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1523">
+      <defs>
+        <radialGradient id="grad713" cx="50.0000%" cy="50.0000%" r="100.0000%">
+          <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#99ccff" stop-opacity="1.0000"/>
+        </radialGradient>
+      </defs>
+      <path d="  M15.8416,8.2171 L17.0792,7.4701 L17.8218,6.7231 L18.3168,5.7271 L18.5644,4.7311 L18.3168,3.9841 L17.8218,2.9880 L17.0792,2.2410 L15.8416,1.4940 L14.6040,0.9960 L12.8713,0.4980 L11.1386,0.2490 L9.4059,0.0000 L7.4257,0.2490 L5.6931,0.4980 L4.2079,0.9960 L2.7228,1.4940 L1.7327,2.2410 L0.7426,2.9880 L0.2475,3.9841 L0.0000,4.7311 L0.2475,5.7271 L0.7426,6.7231 L1.7327,7.4701 L2.7228,8.2171 L4.2079,8.7151 L5.6931,9.2131 L7.4257,9.4622 L9.4059,9.4622 L10.8911,9.4622 L12.6238,9.2131 L18.3168,11.9522 L15.8416,8.2171 Z" style="stroke-width: 0.7448; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad713); "/>
+      <path d="  M15.8416,8.2171 L17.0792,7.4701 L17.8218,6.7231 L18.3168,5.7271 L18.5644,4.7311 L18.3168,3.9841 L17.8218,2.9880 L17.0792,2.2410 L15.8416,1.4940 L14.6040,0.9960 L12.8713,0.4980 L11.1386,0.2490 L9.4059,0.0000 L7.4257,0.2490 L5.6931,0.4980 L4.2079,0.9960 L2.7228,1.4940 L1.7327,2.2410 L0.7426,2.9880 L0.2475,3.9841 L0.0000,4.7311 L0.2475,5.7271 L0.7426,6.7231 L1.7327,7.4701 L2.7228,8.2171 L4.2079,8.7151 L5.6931,9.2131 L7.4257,9.4622 L9.4059,9.4622 L10.8911,9.4622 L12.6238,9.2131 L18.3168,11.9522 L15.8416,8.2171 Z" style="stroke-width: 0.7448; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

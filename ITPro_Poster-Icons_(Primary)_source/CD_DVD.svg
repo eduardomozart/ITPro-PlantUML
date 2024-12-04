@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="0.5100000000" height="0.5100000000" viewBox="0 0 36.7200 36.7200">
+  <title><![CDATA[CD/DVD]]></title>
+  <g transform=" scale(1.000000) ">
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1438">
+      <path d="  M36.7200,18.3600 A18.3600,18.3600 180.0000 1,1 18.3600,0.0000 A18.3600,18.3600 180.0000 0,1 36.7200,18.3600 Z" style="stroke-width: 3.6000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #ffffff; "/>
+      <path d="  M36.7200,18.3600 A18.3600,18.3600 180.0000 1,1 18.3600,0.0000 A18.3600,18.3600 180.0000 0,1 36.7200,18.3600 Z" style="stroke-width: 3.6000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer1439">
+      <defs>
+        <linearGradient id="grad640">
+          <stop offset="0%" stop-color="#66ccff" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad640" id="grad641" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+      </defs>
+      <path d="  M36.7200,18.3600 A18.3600,18.3600 180.0000 1,1 18.3600,0.0000 A18.3600,18.3600 180.0000 0,1 36.7200,18.3600 Z" style="stroke-width: 1.2000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad641); "/>
+      <path d="  M36.7200,18.3600 A18.3600,18.3600 180.0000 1,1 18.3600,0.0000 A18.3600,18.3600 180.0000 0,1 36.7200,18.3600 Z" style="stroke-width: 1.2000; stroke: #0066ff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <text xmlns="http://www.w3.org/2000/svg" x="4.0000" y="18.3600">
+      <tspan font-family="Arial" font-size="12.0000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+ </tspan>
+    </text>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M25.8990,34.2113 C29.7231,32.3708 33.5471,28.6897 34.5031,25.0086 C34.5031,25.0086 34.5031,25.0086 23.0310,20.4073 C22.0750,22.2478 21.1190,23.1681 20.1630,24.0884 C20.1630,24.0884 20.1630,24.0884 25.8990,34.2113 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M9.5111,3.1573 C5.9661,4.9936 3.3074,8.6662 1.5349,12.3388 C1.5349,12.3388 1.5349,12.3388 13.0560,16.9295 C13.0560,15.0932 13.9423,14.1751 15.7148,13.2569 C15.7148,13.2569 15.7148,13.2569 9.5111,3.1573 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1440">
+      <path d="  M23.6281,18.6419 A5.4419,5.4419 180.0000 1,1 18.1862,13.2000 A5.4419,5.4419 180.0000 0,1 23.6281,18.6419 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #3366cc; "/>
+      <path d="  M23.6281,18.6419 A5.4419,5.4419 180.0000 1,1 18.1862,13.2000 A5.4419,5.4419 180.0000 0,1 23.6281,18.6419 Z" style="stroke-width: 0.7200; stroke: #0066ff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

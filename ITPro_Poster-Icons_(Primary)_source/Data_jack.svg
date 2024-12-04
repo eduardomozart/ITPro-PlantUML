@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="0.4284000000" height="0.7832000000" viewBox="0 0 30.8462 56.3910">
+  <title><![CDATA[Data jack]]></title>
+  <g transform=" scale(1.000000) ">
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1368">
+      <defs>
+        <radialGradient id="grad546" cx="0.0000%" cy="0.0000%" r="100.0000%">
+          <stop offset="0%" stop-color="#99ccff" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#0066ff" stop-opacity="1.0000"/>
+        </radialGradient>
+      </defs>
+      <path d="  M0.0000,40.0275 L30.8462,56.3910 L30.8462,15.8600 L0.0000,0.0000 L0.0000,40.0275 Z" style="stroke-width: 1.2000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad546); "/>
+      <path d="  M0.0000,40.0275 L30.8462,56.3910 L30.8462,15.8600 L0.0000,0.0000 L0.0000,40.0275 Z" style="stroke-width: 1.2000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1369">
+      <path d="  M10.6967,32.2234 L17.1644,35.7479 L17.1644,23.4123 L10.6967,19.8879 L10.6967,32.2234 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #ffffff; "/>
+      <path d="  M10.6967,32.2234 L17.1644,35.7479 L17.1644,23.4123 L10.6967,19.8879 L10.6967,32.2234 Z" style="stroke-width: 0.7200; stroke: #0066ff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.1843,29.2025 L14.1793,29.4542 L14.1793,28.1955 L14.9256,28.6990 L14.9256,27.4403 L12.4380,25.9298 L12.4380,27.4403 L13.1843,27.6920 L13.1843,29.2025 Z" style="fill-rule: evenodd; fill: #0066ff; "/>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

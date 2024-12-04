@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="0.2931000000" height="0.2729000000" viewBox="0 0 21.1000 19.6500">
+  <title><![CDATA[Site collection]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M21.1000,18.7500 L21.1000,0.9000 Q21.1000,0.0000 20.2000,0.0000 L0.9000,0.0000 Q0.0000,0.0000 0.0000,0.9000 L0.0000,18.7500 Q0.0000,19.6500 0.9000,19.6500 L20.2000,19.6500 Q21.1000,19.6500 21.1000,18.7500 Z" style="stroke-width: 3.1200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <g xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer1254">
+      <defs>
+        <linearGradient id="grad441">
+          <stop offset="0%" stop-color="#ffff00" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#ff6600" stop-opacity="1.0000"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad441" id="grad442" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(45 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+      </defs>
+      <path d="  M21.1000,18.7500 L21.1000,0.9000 Q21.1000,0.0000 20.2000,0.0000 L0.9000,0.0000 Q0.0000,0.0000 0.0000,0.9000 L0.0000,18.7500 Q0.0000,19.6500 0.9000,19.6500 L20.2000,19.6500 Q21.1000,19.6500 21.1000,18.7500 Z" style="stroke-width: 0.7200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad442); "/>
+      <path d="  M21.1000,18.7500 L21.1000,0.9000 Q21.1000,0.0000 20.2000,0.0000 L0.9000,0.0000 Q0.0000,0.0000 0.0000,0.9000 L0.0000,18.7500 Q0.0000,19.6500 0.9000,19.6500 L20.2000,19.6500 Q21.1000,19.6500 21.1000,18.7500 Z" style="stroke-width: 0.7200; stroke: #0099cc; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M10.3292,14.8136 L10.3292,6.7170" style="stroke-width: 0.5000; stroke: #3366cc; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M17.4016,11.2573 L3.7683,11.2573" style="stroke-width: 0.5000; stroke: #3366cc; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M3.7683,14.8136 L3.7683,11.2573" style="stroke-width: 0.5000; stroke: #3366cc; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M17.4016,14.8136 L17.4016,11.2573" style="stroke-width: 0.5000; stroke: #3366cc; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad443" cx="0.0000%" cy="0.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#99ccff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#0066ff" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M6.8962,8.7681 L13.8488,8.7681 L13.8488,2.1506 L6.8962,2.1506 L6.8962,8.7681 Z" style="fill-rule: evenodd; fill: url(#grad443); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad444" cx="0.0000%" cy="0.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#99ccff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#0066ff" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M8.6468,17.2912 L12.0982,17.2912 L12.0982,13.8367 L8.6468,13.8367 L8.6468,17.2912 Z" style="fill-rule: evenodd; fill: url(#grad444); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad445" cx="0.0000%" cy="0.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#99ccff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#0066ff" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M1.9348,17.2912 L5.3862,17.2912 L5.3862,13.8367 L1.9348,13.8367 L1.9348,17.2912 Z" style="fill-rule: evenodd; fill: url(#grad445); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad446" cx="0.0000%" cy="0.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#99ccff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#0066ff" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M15.5249,17.2912 L18.9763,17.2912 L18.9763,13.8367 L15.5249,13.8367 L15.5249,17.2912 Z" style="fill-rule: evenodd; fill: url(#grad446); "/>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

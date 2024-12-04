@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="0.1656000000" height="0.2210000000" viewBox="0 0 11.9223 15.9096">
+  <title><![CDATA[Folder-Sm]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.5125,1.2601 L1.4836,1.7641 L1.4836,0.0000 L7.3098,3.2762 L8.0381,2.2681 L11.6795,4.0323 L11.9223,5.5444 L11.9223,15.3730 L10.9513,15.8770 L0.5125,10.3327 L0.5125,1.2601 Z" style="stroke-width: 2.4000; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.5125,1.2601 L1.4836,1.7641 L1.4836,0.0000 L7.3098,3.2762 L8.0381,2.2681 L11.6795,4.0323 L11.9223,5.5444 L11.9223,15.3730 L10.9513,15.8770 L0.5125,10.3327 L0.5125,1.2601 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad735" cx="0.0000%" cy="0.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#99ccff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#0066ff" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.5125,1.2601 L1.4836,1.7641 L1.4836,0.0000 L7.3098,3.2762 L8.0381,2.2681 L11.6795,4.0323 L11.9223,5.5444 L11.9223,15.3730 L10.9513,15.8770 L0.5125,10.3327 L0.5125,1.2601 Z" style="fill-rule: evenodd; fill: url(#grad735); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.0000,1.0406 L10.6815,6.8370 L10.6815,15.9096" style="stroke-width: 0.7200; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>
